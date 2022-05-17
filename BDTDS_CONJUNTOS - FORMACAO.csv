@@ -1,0 +1,4 @@
+provider,url_provider,setSpec
+UERJ,https://www.bdtd.uerj.br:8443/oai/request/,"com_1_3609,com_1_3634"
+UFPB-JP,https://repositorio.ufpb.br/oai/request/,"col_tede_3881,col_tede_5443,col_123456789_12139,col_123456789_12994"
+UNB,https://repositorio.unb.br/oai/request/,"com_10482_99,com_10482_105,com_10482_101,col_10482_40326,col_10482_872,col_10482_39982,col_10482_40131,col_10482_873,col_10482_40046,col_10482_874,col_10482_31326"
